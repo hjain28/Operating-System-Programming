@@ -4,8 +4,6 @@ Simulator that simulates multiprocessor caches and involved cache coherence prot
 ## Structure
 
 ```
-.
-├── bin/ - Contains binaries
 ├── include/ - Contains header files
 │   ├── Bus.hpp
 │   ├── Cache.hpp
