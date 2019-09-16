@@ -19,7 +19,7 @@ Simulator that simulates multiprocessor caches and involved cache coherence prot
 │   └── Simulator.hpp
 ├── input/ - Contains Input files (trace files)
 ├── makefile
-├── README.md
+├── README.txt
 └── src
     ├── Bus.cpp - Represents the communication bus
     ├── Cache.cpp - Represents a collection of CacheSet(s)
